@@ -26,10 +26,11 @@ https://github.com/user-attachments/assets/c4024e7f-e999-4039-bf3b-b1762d054b1c
   <img src="https://github.com/SERAP-KEREM/ZombieGame/blob/main/Assets/GameImages/6.png" alt="Game Screenshot 6" width="400">
 </p>
 
+
+
 ## 🛠 Technologies Used
 
-- **Unity**
-- **C#**
+![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 🔧 How to Play
 
